@@ -28,12 +28,16 @@
 
 <div style="display: grid;grid-templates-columns: 1fr 1fr 1fr;grid-templates-rows: 1fr 1fr 1fr;justify-content: center;align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=BRYAN-MARIANO&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 400px; height: auto;grid-column: 1;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRYAN-MARIANO&theme=algolia&hide_border=true" alt="GitHub Streak" style="width: 400px; height: auto;grid-column: 2;grid-row: 1;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRYAN-MARIANO&theme=algolia&hide_border=true" style="width: 400px; height: auto;grid-column: 2;grid-row: 1;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRYAN-MARIANO&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 400px; height: auto;grid-column: 1;"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=BRYAN-MARIANO&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400px"/>
-    
-<img src="https://github-profile-trophy.vercel.app/?username=BRYAN-MARIANO&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="grid-column: 1/span 2;grid-row: 3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BRYAN-MARIANO&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" style="grid-column: 1/span 2;grid-row: 3"/>
   </div>
 
 
 [![Visit Count](https://visitcount.itsvg.in/api?id=BRYAN-MARIANO&icon=6&color=1)](https://visitcount.itsvg.in)
+
+
+
+
+
