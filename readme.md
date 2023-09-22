@@ -22,7 +22,7 @@
 
 # 👨‍💻 skills tech and objectives
 
-
+<img src="images/github-main.svg" width="100%" height="auto">
 
 # 🚀 Stats Github
 
